@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\bin\Debug\net5.0\GreadingSwich.exe
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\bin\Debug\net5.0\GreadingSwich.deps.json
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\bin\Debug\net5.0\GreadingSwich.runtimeconfig.json
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\bin\Debug\net5.0\GreadingSwich.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\bin\Debug\net5.0\GreadingSwich.dll
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\bin\Debug\net5.0\ref\GreadingSwich.dll
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\bin\Debug\net5.0\GreadingSwich.pdb
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\GreadingSwich.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\GreadingSwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\GreadingSwich.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\GreadingSwich.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\GreadingSwich.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\GreadingSwich.dll
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\ref\GreadingSwich.dll
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\GreadingSwich.pdb
+C:\Users\Ivan\source\repos\Greadingif\GreadingSwich\obj\Debug\net5.0\GreadingSwich.genruntimeconfig.cache
